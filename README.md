@@ -1,1 +1,3 @@
-# data-structures-and-algorithms-php
+## A collection of important algorithms and data structures in PHP
+
+It'll grown as I continue studying
